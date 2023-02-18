@@ -1,0 +1,192 @@
+/* Author Name : netcommlabs */
+
+@media (max-width: 1200px) { 
+ul.top_links { text-align:center; margin-bottom:10px;}
+ul.top_links li { display:inline-block}
+ul.certificates { width:100%; text-align:center; margin-bottom:10px;}
+ul.certificates li { display:inline-block}
+.banner .carousel-indicators li { font-size:14px;}
+header .navbar-nav > li > a { padding:15px 7px;}
+
+.banner .carousel-indicators { left: 50%; margin-left: -35%; width: 70%; }
+
+.services_box { width: 100%; }
+#f1_container { height: 260px; }
+ul.enquiry_form li input[type="text"] { width:80%;}
+.fact_sheet ul li{ padding:20px 50px;}
+
+.what_we_do .web_design{ width:23%; }
+.what_we_do .mobile_development{ width:23%; }
+.what_we_do .e_commerce{ width:23%; }
+.what_we_do .seo{ width:23%; }
+.what_we_do .e_learning{ width:23%; }
+.key_milestones .img img{ width:100% !important; height:auto;}
+.certified img{ max-width:50%;}
+.news_update .details{ width:75%;}
+.right_link ul li a { font-size:17px;}
+.services_listing ul li img{ width:15%;}
+.services_listing ul li p{ font-size:16px;}
+.major_projects .more_info h3{ font-size:20px;}
+}
+
+@media (max-width: 990px) {
+header .container { width:95%}
+header .navbar { margin-bottom:5px;}
+header .navbar-nav > li > a { padding:15px 7px; font-size:14px;}  
+.services_box ul li { width:50%}
+.add p { width:100%; line-height:18px;}
+.add::before { left:20px;}
+.add map { width:100%; margin-top:5px;}
+ul.social_share li { margin-right:5px;}
+.logo  { padding:15px 0 0}
+.logo img { width:100%}
+.services_box ul li img{width:100%; height:100%;}
+.twitter_box img{height:auto;}
+.what_we_do .web_design{ width:30%; }
+.what_we_do .mobile_development{ width:30%; }
+.what_we_do .e_commerce{ width:30%; }
+.what_we_do .seo{ width:30%; }
+.what_we_do .e_learning{ width:30%; }
+.nbs-flexisel-nav-right{ right:0 !important;}
+.nbs-flexisel-nav-left { left:0 !important;}
+.news_update{ min-height:240px; }
+.services_listing ul li p{ font-size:20px;}
+.services .team_skills img{ height:60px; width:auto;}
+.certified { margin-bottom:30px;	}
+.contact_us{ background-image:none;}
+.major_projects .list_project{ width:50%;}
+.portfolio .details{ margin-bottom:15px;}
+.portfolio .carousel-control.right, .portfolio .carousel-control.left{ padding:0 10px;}
+.portfolio .carousel-control.right img, .portfolio .carousel-control.left img{ height:50px; width:auto;}
+.banner .carousel-caption { left:58%; top:0%; width:280px;}
+.banner .carousel-caption h2{ font-size:24px; margin:10px 0px;}
+.banner .carousel-caption  p{ font-size:14px; padding:5px 0; line-height:16px; margin:0;}
+.banner .carousel-caption  p a img{ height:25px; width:auto;}
+.book_meeting .book_form{ width:90%;}
+ul.footer_contact li{ margin:0 0 0 2%;}
+.flip_services img{ display:none;}
+.flip_services_back {  background-color:transparent;  -webkit-transform: rotateY(0deg);  transform: rotateY(0deg);}
+
+.flip_services:hover .flip_services_front { transform:none;}
+.tab_box{ display:none;}
+
+
+}
+
+@media (max-width: 767px) {
+.navbar-header { display:block}
+ul.certificates {}
+	
+
+.logo { text-align:center}
+.logo img { width: auto; }
+header .navbar {  width: 100%; margin-top:10px; background:rgba(0,0,0,.09); }
+header .navbar-toggle { background:#333}
+header .container { width: auto; } 
+.banner .carousel-indicators { margin-left: -45%; width: 90%; }
+.banner .carousel-indicators li { padding:10px 15px;  min-height: 60px;}
+.banner .carousel-indicators li:nth-child(3) { padding-top: 20px; }
+
+header .navbar-nav > li > a { font-size: 14px; padding: 5px 7px; } 
+.footer_top { margin: 30px 0 40px; padding: 20px 0 40px; }
+
+#myCarousel1 .carousel-inner > .item > img { width: 100%; }
+#myCarousel2 .carousel-inner > .item > img { width: 100%; }
+.add { width:100%; }
+
+.footer_top ul.footer_contact li{ margin: 20px 0 20px 5%}
+section.footer_top{padding:0px;}
+.what_we_do .web_design{ width:100%;  margin:10px 0;}
+.what_we_do .mobile_development{ width:100%; margin:10px 0; }
+.what_we_do .e_commerce{ width:100%;  margin:10px 0;}
+.what_we_do .seo{ width:100%; margin:10px 0; }
+.what_we_do .e_learning{ width:100%; margin:10px 0;}
+.services .team_skills img { height:50px; }
+.services_listing ul li { width:100%; padding:10px 0;}
+.services_listing ul li p{ font-size:18px; padding-bottom:0;}
+.services_listing ul li img { width:auto;}
+.current_opening .job_details { margin:10px 0;}
+.current_opening .job_details .section1{ width:100%; line-height:24px;}
+.current_opening .job_details .section_last{ width:100%; margin-bottom:10px;}
+.current_opening .job_details .section_last a{ float:left;}
+.current_opening .modal{ left:0;}
+.current_opening .modal-content{ min-width:300px;}
+
+.current_opening .modal-content .pop_close{ position:absolute; right:0px; top:20px; cursor:pointer;}
+.major_projects h2{ margin-bottom:10px;}
+.major_projects select{ float:left; width:100%; margin:10px 0;}
+.major_projects .list_project{ width:100%;}
+.banner .carousel-caption { left:55%; top:5%; width:150px;}
+.banner .carousel-caption h2{ font-size:20px; margin:10px 0px;}
+.banner .carousel-caption  p{ display:none;}
+.banner .carousel-control{ width:25px; top:40%;}
+.banner .carousel-control img{  width:25px; }
+.banner .carousel-control.left{ left:0;}
+.book_meeting{ background:none;}
+.book_meeting .book_form{ width:100%;}
+ .book_meeting .book_form{ width:100%;}
+ .book_meeting input, .book_meeting textarea, .book_meeting select { width:100%;}
+ .book_meeting .date{ width:51%; }
+ .book_meeting .time{ width:23%;}
+ .footer_top ul.footer_contact{text-align:left;}
+ .digital_services ul li{ width:100%;}
+ .infrastructure .inner_details, .infrastructure .inner_details:last-child { width:100%;}
+
+}
+
+@media (max-width: 500px) {
+.services_box ul li { width:100%}	
+.banner .carousel-indicators { display:none}
+.our_services { padding: 10px 0 20px; }
+.banner .carousel-control .glyphicon-chevron-left, .banner .carousel-control .glyphicon-chevron-right, .banner .carousel-control .icon-prev, .banner .carousel-control .icon-next { margin-top: -50%; }
+
+
+}
+
+@media (max-width: 767px) {
+
+.banner .carousel-caption-web h2 { color:#fff; font-size:18px; text-transform:uppercase; color:#fff; font-family:'OswaldRegular'; left: 20px; width: 180px; position: relative; top: -20px;}
+
+	.banner .carousel-caption-web p { display: none}
+	
+	.banner .carousel-caption-e-learning p {width: 400px; position: relative; font-size: 14px; left: -80px}
+	
+	.banner .carousel-caption-e-commerce {font-size: 10px;}
+	.work-exp ul li{ float:left; border-right:none; color:#fff; width:90%;}
+	.skill-bg {width:98%;}
+	.social-icon ul {margin:0px 0 10px 0;padding: 0; float:none; text-align:center;}
+.social-icon ul li {display:inline-block; padding:0 0px; font-size:12px;color:#5b5a5a;font-weight:600;}
+.call-support { float:left; display:none;}
+.bmargin{ margin-bottom:0px;}
+.footer-left {float:left; width:100%; padding:30px 0;}
+.footer-left h2 {display:block; text-align: left; padding:0px 0px; margin:0 0 10px 0; color:#FFF;}
+.footer-right {float:left; width:100%; background:#2e343a; padding:30px 0; min-height:inherit}
+.footer-main {display: block;background: #3e454c; background-image:none;}
+.footer-nav {padding: 0 0px; float:left; width:100%; margin-top:20px}
+.footer-nav h2 {text-align: left; float:left; padding:0px 0px; margin:0 0 10px 0; color:#FFF; font-size:18px; width:100%;}
+}
+
+@media (max-width: 360px) {
+
+.footer_top ul.footer_contact li{font-size: 18px;
+    margin: 17px 0 17px 5%;}
+	
+ul.footer_contact li:first-child img{width:22%;}	
+nav.navbar-inverse .navbar-brand:hover{color:#333;}
+nav.navbar-inverse .navbar-brand:focus{color:#333;}
+
+.twitter_box img{width:100%;}
+
+}
+
+@media screen and (max-width: 600px){
+   .navbar-fixed-bottom-new
+{
+	position:fixed;right:0;left:0;z-index:1030;bottom:0;margin-bottom:0;border-width:1px 0 0;
+}  
+	   .navbar-fixed-bottom-new a:hover
+{
+	color: #fff;
+	background-color: #286090;
+}  
+}
